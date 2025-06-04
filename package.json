@@ -1,0 +1,14 @@
+{
+  "name": "tienda-online-cli",
+  "version": "1.0.0",
+  "description": "Herramienta CLI para gestionar productos de una tienda online usando FakeStore API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "cli", "api", "productos", "tienda"],
+  "author": "Cecilia Jurgens",
+  "license": "ISC"
+}
